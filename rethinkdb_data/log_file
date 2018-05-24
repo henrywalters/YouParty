@@ -1,0 +1,24 @@
+2018-04-28T16:47:25.127238630 0.092250s notice: Recursively removing directory /home/gorkill/you-party-beta/rethinkdb_data/tmp
+2018-04-28T16:47:25.129777243 0.094788s notice: Initializing directory /home/gorkill/you-party-beta/rethinkdb_data
+2018-04-28T16:47:25.129880156 0.094891s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/gorkill/you-party-beta/rethinkdb_data' did not already exist or is empty.)
+2018-04-28T16:47:25.129930466 0.094941s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-04-28T16:47:25.346158820 0.311173s notice: Running on Linux 2.6.32-042stab120.16 x86_64
+2018-04-28T16:47:25.346240956 0.311251s notice: Loading data from directory /home/gorkill/you-party-beta/rethinkdb_data
+2018-04-28T16:47:25.387604174 0.352615s info: Automatically using cache size of 171 MB
+2018-04-28T16:47:25.388758048 0.353768s notice: Listening for intracluster connections on port 29015
+2018-04-28T16:47:25.391340597 0.356351s notice: Listening for client driver connections on port 28015
+2018-04-28T16:47:25.420639566 0.385650s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2018-04-28T16:48:39.005827149 0.036943s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-04-28T16:48:39.008707868 0.039827s notice: Running on Linux 2.6.32-042stab120.16 x86_64
+2018-04-28T16:48:39.008779801 0.039896s notice: Loading data from directory /home/gorkill/you-party-beta/rethinkdb_data
+2018-04-28T16:48:39.018965821 0.050082s info: Automatically using cache size of 170 MB
+2018-04-28T16:48:39.028184372 0.059301s notice: Listening for intracluster connections on port 29015
+2018-04-28T16:48:39.030998768 0.062115s notice: Listening for client driver connections on port 28015
+2018-04-28T16:48:39.031267522 0.062383s notice: Listening for administrative HTTP connections on port 9090
+2018-04-28T16:48:39.039291271 0.070407s notice: Listening on cluster addresses: 127.0.0.1, 127.0.0.2, 155.94.243.17, ::1
+2018-04-28T16:48:39.047477730 0.078594s notice: Listening on driver addresses: 127.0.0.1, 127.0.0.2, 155.94.243.17, ::1
+2018-04-28T16:48:39.055621897 0.086738s notice: Listening on http addresses: 127.0.0.1, 127.0.0.2, 155.94.243.17, ::1
+2018-04-28T16:48:39.055698127 0.086814s notice: Server ready, "vps_01_ldc" 0d88ce90-b54f-4e1c-9da9-53c508b8f994
+2018-04-28T16:50:17.683153019 98.714269s info: Table 62fd715e-3f61-4875-9204-e570e7e7cfcb: Starting a new Raft election for term 1.
+2018-04-28T16:50:17.683578377 98.714694s info: Table 62fd715e-3f61-4875-9204-e570e7e7cfcb: Added replica on this server.
+2018-04-28T16:50:17.700677226 98.731793s info: Table 62fd715e-3f61-4875-9204-e570e7e7cfcb: This server is Raft leader for term 1. Latest log index is 0.

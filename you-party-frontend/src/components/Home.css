@@ -1,0 +1,92 @@
+body {
+	background: -webkit-gradient(linear, left center, right center, from(#ff30e7), to(#5b0051)) fixed;
+} 
+
+h1, h2, h3, h4, h5 {
+	color: white;
+	font-family: arial;
+	text-shadow:
+   -1px 1px 0 #000,  
+    -1px 1px 0 #000,
+    -1px 1px 0 #000,
+     -1px 1px 0 #000;
+}
+
+.title {
+	font-size: 60px;
+	font-family: Lobster;
+	text-shadow:
+   0px 0px 0 #000,  
+    0px 0px 0 #000,
+    -2px 2px 0 #000,
+     -2px 2px 0 #000;
+}
+
+.sub-title {
+	font-size: 40px;
+	margin-top: -20px;
+}
+
+.large-btn {
+	cursor: pointer;
+	background-color: #0050d3; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-family: arial;
+}
+
+.med-btn {
+	background-color: #0050d3; /* Green */
+	cursor: pointer;
+    border: none; 
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    font-family: arial;
+}
+
+.key-input {
+    font-size: 30px;
+    width: 120px;
+    text-align:center;
+}
+
+.small-btn {
+	background-color: #0050d3; /* Green */
+	cursor: pointer;
+    border: none; 
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.error-msg {
+    font-size: 18px;
+    color: #ffbf0f;
+        text-shadow:
+   -1px 1px 0 #000,  
+    -1px 1px 0 #000,
+    -1px 1px 0 #000,
+     -1px 1px 0 #000;
+}
+
+.large-btn:hover, .med-btn:hover, .small-btn:hover {
+	background-color: #004ac1;
+}
+
+input, select, option {
+	color: black;
+    font-size: 20px;
+}
